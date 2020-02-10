@@ -6,14 +6,14 @@
 			"image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-11/js-poo.png",
 			"price": 30,
 			"professor": "valdemar"
-		}
+		},
 		{
 			"id": 2,
 			"titulo": "go desde cero",
 			"image" :"https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-1.2.1&w=1000&q=80",
 			"price": 10,
 			"professor": "Mario Bunges"
-		}
+		},
 		{
 			"id": 3,
 			"titulo": "Programacion basica",
